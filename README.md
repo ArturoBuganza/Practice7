@@ -104,7 +104,7 @@ For this practice, add to the Result Section the following:
   
    - description of the problems found and solutions.
    
-   ![Figure 8](./img/figura3.PNG)
+   ![Figure 8](./img/figura3.png)
    
    - flow diagram of your program implementation.
    
