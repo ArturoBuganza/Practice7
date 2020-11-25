@@ -101,10 +101,10 @@ For this practice, add to the Result Section the following:
  **WASNT ABLE OF DOING THE PROTEUS PART BECAUSE OF LICENSE ISSUES.**
   
    - description of the problems found and solutions.
-   ![Figure 8(./img/figura3.PNG)
+   ![Figure 8](./img/figura3.PNG)
    
    - flow diagram of your program implementation.
-   ![Figure 9(./img/figura2.PNG)
+   ![Figure 9](./img/figura2.PNG)
    
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
