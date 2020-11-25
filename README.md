@@ -116,5 +116,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
+https://youtu.be/XZuqhqSEey8
+
 ## Conclusion
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+
+Working with this exercise of a keyboard was very interesting, since it made me understand concepts of using the least posible imputs to create a program, this works specially better the bigger the aplication, making usage of 1 single port for many variables or usages might be of high importance. I had many problems getting this done but along the course I understood that the internet is our greatest ally and can solve us many of the doubts. This was the last practice of the semester and i think that in general they where all very challenging and made me learn a lot, practicing is key for success and fully understanding
