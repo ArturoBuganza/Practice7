@@ -95,16 +95,16 @@ Remember to follow the programming structure:
 ### Report
 For this practice, add to the Result Section the following:
    - image of the BUILD SUCCESSFUL window.
-   ![Figure 7](./img/figura1.png)
+   ![Figure 7](./img/figura1.PNG)
    
    - image of the connections between the Curiositiy board and  your minimum card system (Proteus). The image must contain a short description, and a footnote.</br>
 *WASNT ABLE OF DOING THE PROTEUS PART BECAUSE OF LICENSE ISSUES.*
   
    - description of the problems found and solutions.
-   ![Figure 8(./img/figura3.png)
+   ![Figure 8(./img/figura3.PNG)
    
    - flow diagram of your program implementation.
-   ![Figure 9(./img/figura2png)
+   ![Figure 9(./img/figura2.PNG)
    
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
