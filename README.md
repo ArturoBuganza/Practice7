@@ -98,7 +98,7 @@ For this practice, add to the Result Section the following:
    ![Figure 7](./img/figura1.PNG)
    
    - image of the connections between the Curiositiy board and  your minimum card system (Proteus). The image must contain a short description, and a footnote.</br>
-*WASNT ABLE OF DOING THE PROTEUS PART BECAUSE OF LICENSE ISSUES.*
+ **WASNT ABLE OF DOING THE PROTEUS PART BECAUSE OF LICENSE ISSUES.**
   
    - description of the problems found and solutions.
    ![Figure 8(./img/figura3.PNG)
